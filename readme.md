@@ -23,6 +23,7 @@ Simple Todo app developed in Laravel to try CRUD functions
 **Routes**
 
 '/' - Default Laravel homepage
+
 '/todo' - List of all todos and main application page
 
 **Screenshots**
